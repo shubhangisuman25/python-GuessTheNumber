@@ -3,7 +3,7 @@
 
 ## Instructions
 
-The object of this game is to guess the correct number.  There are two levels easy and hard. If you choice easy you will 10 attempts to guess. and if you choice hard you have only 5 attempts.
+The objective of this game is to guess the correct number.  There are two levels easy and hard. If you choice easy you will 10 attempts to guess and if you choice hard you have only 5 attempts.
 
 ### Sample Option 1.
 ```
