@@ -1,10 +1,11 @@
-## Blind Auction
+# Guess The Number
 
 
-# Instructions
+## Instructions
 
 The object of this game is to guess the correct number.  There are two levels easy and hard. If you choice easy you will 10 attempts to guess. and if you choice hard you have only 5 attempts.
 
+### Sample Option 1.
 ```
 
   ____                       _____ _            _   _                 _
@@ -40,4 +41,33 @@ Too high
 The attempts left 3
 Make a guess: 23
 You got it! The answer was 23
+```
+
+### Sample Option 2.
+```
+  ____                       _____ _            _   _                 _
+  / ___|_   _  ___  ___ ___  |_   _| |__   ___  | \ | |_   _ _ __ ___ | |__   ___ _ __
+ | |  _| | | |/ _ \/ __/ __|   | | | '_ \ / _ \ |  \| | | | | '_ ` _ \| '_ \ / _ \ '__|
+ | |_| | |_| |  __/\__ \__ \   | | | | | |  __/ | |\  | |_| | | | | | | |_) |  __/ |
+  \____|\__,_|\___||___/___/   |_| |_| |_|\___| |_| \_|\__,_|_| |_| |_|_.__/ \___|_|
+
+
+Welcome to the Number Guessing Game!
+I'm tinking a number between 1 to 100.
+Choose a difficulty. Type 'easy' or 'hard': hard
+Make a guess: 70
+Too high
+The attempts left 4
+Make a guess: 30
+Too low
+The attempts left 3
+Make a guess: 50
+Too low
+The attempts left 2
+Make a guess: 60
+Too low
+The attempts left 1
+Make a guess: 65
+Too high
+The attempts left 0
 ```
